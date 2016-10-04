@@ -10,7 +10,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
+		System.out.println("");
 		setContentView(R.layout.activity_main);
 		
 		System.out.println();System.out.println();System.out.println();System.out.println();
